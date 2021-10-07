@@ -264,7 +264,7 @@ if (letra.lengh > 1) {
 // No modificar nada debajo de esta línea
 // --------------------------------
 
-export default {
+module.exports = {
   nuevaString,
   nuevoNum,
   nuevoBool,
